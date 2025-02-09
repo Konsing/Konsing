@@ -1,7 +1,7 @@
 
 ---
 
-# 🧑‍🍳 Konsing  
+# 💻 **Software Developer** - Konsing  
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
@@ -27,13 +27,8 @@
 ---
 
 ### 🚀 About Me  
-💻 **Software Developer**
 
 I enjoy dabbling in **full-stack development, automation, AI integration, and system architecture**. Passionate about **low-level systems programming**, **web development**, and **cloud solutions**. Experienced in **C++, Python, Java, JavaScript, Node.js, Flask, AWS, and Unity**.
-
-🎓 **Education**  
-- **B.S. Computer Science** – UC Davis
-- **A.S. Mathematics** – Berkeley City College 
 
 ---
 
