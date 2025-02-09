@@ -1,7 +1,7 @@
 
 ---
 
-# 👨‍💻 Konsing  
+# 🧑‍🍳 Konsing  
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
@@ -49,16 +49,16 @@ I enjoy dabbling in **full-stack development, automation, AI integration, and sy
 ---
 
 ### 🏆 Notable Projects  
-- **Criterion Collection Stremio Add-on** – Built a Stremio add-on integrating Criterion Collection metadata using **Python, BeautifulSoup, Flask, Node.js**.  
-- **AI-Powered Resume Optimizer** – Flask-based web app that uses **OpenAI API & PostgreSQL** to optimize resumes for **ATS systems**.  
-- **EcoCAR EV Automation** – Developed an **automated onboarding system** using **Python, Google APIs, Airflow, and GCP** to streamline workflows.  
-- **PunchHell (Unity Game, C#)** – Led development, handled **sound integration, gameplay mechanics, and UI** in Unity.  
-- **AI Heart Disease Predictor** – Developed a **TensorFlow-based ANN model** (82.95% accuracy) for **predicting heart disease risk** via Flask UI.  
-- **Connect 4 AI** – Implemented **Minimax, Alpha-Beta Pruning, and Monte Carlo** AI agents to play Connect 4 strategically.  
-- **Full-Stack Blog Platform** – Built a **Google OAuth-powered blog** with **Node.js, Express, SQL, and AWS deployment**.  
-- **Custom Shell (C)** – Developed a **Unix-like shell** supporting command execution, piping, and redirection.  
-- **MS-FAT File System (C)** – Designed a **custom FAT-based file system** handling file storage and disk management.  
-- **Web Crawler with Selenium** – Scraped & analyzed web data with **Python, Selenium, and BrowserMob Proxy**.  
+- 🎬 **Criterion Collection Stremio Add-on** – Built a Stremio add-on integrating Criterion Collection metadata using **Python, BeautifulSoup, Flask, Node.js**.  
+- 🤖 **AI-Powered Resume Optimizer** – Flask-based web app that uses **OpenAI API & PostgreSQL** to optimize resumes for **ATS systems**.  
+- 🚗 **EcoCAR EV Automation** – Developed an **automated onboarding system** using **Python, Google APIs, Airflow, and GCP** to streamline workflows.  
+- 🔥 **PunchHell (Unity Game, C#)** – Led development, handled **sound integration, gameplay mechanics, and UI** in Unity.  
+- ❤️ **AI Heart Disease Predictor** – Developed a **TensorFlow-based ANN model** (82.95% accuracy) for **predicting heart disease risk** via Flask UI.  
+- 🎲 **Connect 4 AI** – Implemented **Minimax, Alpha-Beta Pruning, and Monte Carlo** AI agents to play Connect 4 strategically.  
+- 📝 **Full-Stack Blog Platform** – Built a **Google OAuth-powered blog** with **Node.js, Express, SQL, and AWS deployment**.  
+- 🖥️ **Custom Shell (C)** – Developed a **Unix-like shell** supporting command execution, piping, and redirection.  
+- 💾 **MS-FAT File System (C)** – Designed a **custom FAT-based file system** handling file storage and disk management.  
+- 🕷️ **Web Crawler with Selenium** – Scraped & analyzed web data with **Python, Selenium, and BrowserMob Proxy**.  
 
 ---
 
