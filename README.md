@@ -14,7 +14,7 @@
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/-AI%20%26%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
+[![AI & ML](https://img.shields.io/badge/-AI%20%26%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 📫 Links!  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Konsing)   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ham.konsing@gmail.com)  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/308047857946984448)  
+### 📫 Links!
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://konsing.github.io/my-portfolio/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/308047857946984448) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ham.konsing@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Konsing)
 
 ---
