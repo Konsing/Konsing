@@ -10,13 +10,11 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
+[![Fullstack](https://img.shields.io/badge/-Fullstack-FF9900?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-02569B?style=flat-square&logo=python&logoColor=white)](#)
+[![Databases](https://img.shields.io/badge/-Databases-003B57?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![AI & ML](https://img.shields.io/badge/-AI%20%26%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](#)
 
 ---
 
