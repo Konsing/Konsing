@@ -19,6 +19,6 @@ Full-stack software engineer with a backend focus, experienced in designing secu
 ## 📫 Connect
 Portfolio: https://konsing.github.io/my-portfolio/  
 GitHub: https://github.com/Konsing  
-Email: ham.konsing@gmail.com  
+Email: konsing.hamlopez@gmail.com
 
 ---
