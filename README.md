@@ -9,8 +9,16 @@ Full-stack engineer specializing in AI automation and LLM integration. Experienc
 
 ## 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://konsing.github.io/my-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-@Konsing-black?style=for-the-badge&logo=github)](https://github.com/Konsing)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:konsing.hamlopez@gmail.com)
+<p align="center">
+  <a href="https://konsing.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Konsing">
+    <img src="https://img.shields.io/badge/GitHub-Konsing-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:konsing.hamlopez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
